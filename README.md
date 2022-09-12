@@ -4,7 +4,7 @@
 <p>Passionate Full Stack Developer. Former Information Systems graduate from Wright State
 University and Ohio State University Coding Bootcamp alumni. Continuing desire to learn new
 technologies and solve problems within the field of development. Recently updated local
-restaurant's website using the MERN stack.</p>
+restaurant's website using the MERN stack. https://www.sweeneysseafood.com/</p>
 
 - 👨‍💻 All of my projects are available at [portfolio-alibraheem.herokuapp.com](portfolio-alibraheem.herokuapp.com)
 
