@@ -10,6 +10,7 @@ restaurant's website using the MERN stack.</p>
 
 - 📫 Linkedin **https://www.linkedin.com/in/adam-al-ibraheem/**
 
+- Resume https://drive.google.com/file/d/1P0hwzn2zYIBbVQAoKzZVAuzBZnCwNYcU/view?usp=sharing
 
 <p align="left">
 </p>
