@@ -8,9 +8,9 @@ restaurant's website using the MERN stack.</p>
 
 - 👨‍💻 All of my projects are available at [portfolio-alibraheem.herokuapp.com](portfolio-alibraheem.herokuapp.com)
 
-- 📫 Linkedin **linkedin.com/in/adam-al-ibraheem**
+- 📫 Linkedin **https://www.linkedin.com/in/adam-al-ibraheem/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
