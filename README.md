@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Adam Al-Ibraheem</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h2 align="center">Full-Stack Developer</h2>
 
 <p>Passionate Full Stack Developer. Former Information Systems graduate from Wright State
 University and Ohio State University Coding Bootcamp alumni. Continuing desire to learn new
