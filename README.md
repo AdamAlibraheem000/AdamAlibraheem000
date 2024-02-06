@@ -1,10 +1,7 @@
 <h1 align="center">Hello! I'm Adam Al-Ibraheem</h1>
 <h2 align="center">Full-Stack Developer</h2>
 
-<p>Passionate Full Stack Developer. Former Information Systems graduate from Wright State
-University and Ohio State University Coding Bootcamp alumni. Continuing desire to learn new
-technologies and solve problems within the field of development. Recently updated local
-restaurant's website using the MERN stack. https://www.sweeneysseafood.com/</p>
+<p>Dynamic and results-driven professional currently pursuing a Master's degree in Cybersecurity at Western Governor's University. Bachelor's  in Management Information Systems from Wright State University. Adept at full-stack development with hands-on experience in Python, JavaScript, Node.js, MongoDB, and Java programming languages. Possesses a Certificate of Completion from the Ohio State University Programming Bootcamp.</p>
 
 - 👨‍💻 All of my projects are available at [portfolio-alibraheem.herokuapp.com](portfolio-alibraheem.herokuapp.com)
 
